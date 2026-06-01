@@ -8,14 +8,13 @@
 ![](https://github-readme-stats.vercel.app/api?username=Raja-55&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Raja-55&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raja-55&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img width="200" height="200" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/4e5f5caa-f5e0-4c2b-9098-7d56639df6b3" />
+<img width="200" height="200" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/e09230b4-34cf-4b54-896b-065b3dd19a5e" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Raja-55&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Raja-55&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img width="200" height="200" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/4e5f5caa-f5e0-4c2b-9098-7d56639df6b3" />
-<img width="200" height="200" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/e09230b4-34cf-4b54-896b-065b3dd19a5e" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
