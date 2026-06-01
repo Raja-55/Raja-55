@@ -15,6 +15,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Raja-55&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width="1238" height="869" alt="image" src="https://github.com/user-attachments/assets/3cd8d624-41fc-43bf-8fbd-7843fb480961" />
+<img width="1080" height="1080" alt="gssoc-badge-first_steps" src="https://github.com/user-attachments/assets/4e5f5caa-f5e0-4c2b-9098-7d56639df6b3" />
+<img width="1080" height="1080" alt="gssoc-badge-role_contributor" src="https://github.com/user-attachments/assets/e09230b4-34cf-4b54-896b-065b3dd19a5e" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->  
